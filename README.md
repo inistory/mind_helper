@@ -2,6 +2,10 @@
 [mind_helper] 우을증 해소 웹서비스
 
 
+### tools
+`React` `Flask` `MySQL` `Nginx` `Azure` `KakaomapAPI` 
+
+
 ### install node, npm (macOS)
 ```
 brew update
